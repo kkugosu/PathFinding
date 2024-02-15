@@ -2,4 +2,4 @@
 
 constructing pathfinding algorithm with multi skill RL algorithm
 
-<img width="370" alt="pathplanning" src="https://github.com/kkugosu/PathFinding/assets/24292848/901985c3-82b3-4c6c-adbe-ae6f4f921817">
+![pathfinding](https://github.com/kkugosu/PathFinding/assets/24292848/8f4fdf2b-2ee9-4903-848e-2d814cf58d47)
